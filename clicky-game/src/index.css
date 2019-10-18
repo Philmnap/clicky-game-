@@ -10,6 +10,9 @@ body {
 .current-score {
   text-align: left;
 }
+.jumbotron-fluid {
+  background-color: black;
+}
 
 .instructions {
   text-align: center;
