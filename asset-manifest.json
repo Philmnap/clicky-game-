@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Philmnap/clicky-game-/static/css/main.2b584879.chunk.css",
+    "main.js": "/Philmnap/clicky-game-/static/js/main.c3010570.chunk.js",
+    "main.js.map": "/Philmnap/clicky-game-/static/js/main.c3010570.chunk.js.map",
+    "runtime-main.js": "/Philmnap/clicky-game-/static/js/runtime-main.a96ec924.js",
+    "runtime-main.js.map": "/Philmnap/clicky-game-/static/js/runtime-main.a96ec924.js.map",
+    "static/js/2.99673906.chunk.js": "/Philmnap/clicky-game-/static/js/2.99673906.chunk.js",
+    "static/js/2.99673906.chunk.js.map": "/Philmnap/clicky-game-/static/js/2.99673906.chunk.js.map",
+    "index.html": "/Philmnap/clicky-game-/index.html",
+    "precache-manifest.4382e623f03bf2f636c3fb6a80334519.js": "/Philmnap/clicky-game-/precache-manifest.4382e623f03bf2f636c3fb6a80334519.js",
+    "service-worker.js": "/Philmnap/clicky-game-/service-worker.js",
+    "static/css/main.2b584879.chunk.css.map": "/Philmnap/clicky-game-/static/css/main.2b584879.chunk.css.map",
+    "static/media/Locain.jpg": "/Philmnap/clicky-game-/static/media/Locain.c865dfd4.jpg",
+    "static/media/backround.jpg": "/Philmnap/clicky-game-/static/media/backround.ce15b0d8.jpg",
+    "static/media/bellinger.jpg": "/Philmnap/clicky-game-/static/media/bellinger.ea15f420.jpg",
+    "static/media/bryce.jpg": "/Philmnap/clicky-game-/static/media/bryce.b4f456ca.jpg",
+    "static/media/degrom.jpg": "/Philmnap/clicky-game-/static/media/degrom.accfe8f8.jpg",
+    "static/media/frustrated.jpg": "/Philmnap/clicky-game-/static/media/frustrated.e9b8bb71.jpg",
+    "static/media/gerrit.jpg": "/Philmnap/clicky-game-/static/media/gerrit.ee4708da.jpg",
+    "static/media/happy_player.jpg": "/Philmnap/clicky-game-/static/media/happy_player.022c51f6.jpg",
+    "static/media/judge.jpg": "/Philmnap/clicky-game-/static/media/judge.9d0ad93a.jpg",
+    "static/media/lindor.jpg": "/Philmnap/clicky-game-/static/media/lindor.00f44014.jpg",
+    "static/media/mookie-betts.jpg": "/Philmnap/clicky-game-/static/media/mookie-betts.eea71715.jpg",
+    "static/media/yelich.jpg": "/Philmnap/clicky-game-/static/media/yelich.1ec0be17.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a96ec924.js",
+    "static/js/2.99673906.chunk.js",
+    "static/css/main.2b584879.chunk.css",
+    "static/js/main.c3010570.chunk.js"
+  ]
+}
